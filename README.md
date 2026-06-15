@@ -21,7 +21,7 @@ Repositori ini berisi implementasi **Data Warehouse** dan pipeline **ETL (Extrac
 
 ## Studi Kasus: AdventureWorks Sales
 
-Studi kasus ini berfokus pada analisis aktivitas penjualan (*sales*) dan pengembalian barang (*returns*) pada perusahaan fiktif **AdventureWorks**, sebuah produsen sepeda dan perlengkapan olahraga multinasional. 
+Studi kasus ini berfokus pada analisis aktivitas penjualan (*sales*) dan pengembalian barang (*returns*) pada perusahaan **AdventureWorks**, sebuah produsen sepeda dan perlengkapan olahraga multinasional. 
 
 ## Berkas Proyek & Dokumen ETL
 
