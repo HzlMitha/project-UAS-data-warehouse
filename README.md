@@ -12,10 +12,10 @@ Repositori ini berisi implementasi **Data Warehouse** dan pipeline **ETL (Extrac
   
 | No. | Nama Anggota | NIM | Peran / Kontribusi |
 | :---: | :--- | :---: | :--- |
-| 1 | Dea Marselia Rahma | 244107060087 | Perancangan skema, ETL Dim Customer, Laporan |
-| 2 | Dian Paramitha | 244107060049 | Perancangan skema, ETL Dim Product, Job AdventureWorks |
-| 3 | Fajar Kurnia Putra | 244107060074 | ETL Fact Sales, ETL Fact Returns, Laporan |
-| 4 | Rafi Zeta Fauzan| 244107060120 | ETL Dim Calendar, ETL Dim Territory, Laporan |
+| 1 | Dea Marselia Rahma | 244107060087 | Laporan Progress Awal, ETL Dim Territory, Laporan Akhir (BAB 5 dan BAB 6) |
+| 2 | Dian Paramitha | 244107060049 | Perancangan skema, ETL Dim Product, Laporan Akhir (BAB 3 dan BAB 5) |
+| 3 | Fajar Kurnia Putra | 244107060074 | ETL Dim Customer, ETL Fact Sales,  Job AdventureWorks, Laporan Akhir (BAB 3 dan BAB 4) |
+| 4 | Rafi Zeta Fauzan| 244107060120 | ETL Dim Calendar, ETL Fact Returns, Laporan Akhir (BAB 1 dan BAB 2) |
 
 ---
 
